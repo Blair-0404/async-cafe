@@ -1,5 +1,4 @@
 # async-cafe
-카페비동기
 
-## 실행
-* cafeProgram.js
+* node cafeProgram.js로 실행
+![text](https://www.youtube.com/watch?v=DtrQsA9K7PA)
