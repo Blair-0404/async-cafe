@@ -62,5 +62,6 @@ class Barista {
         }
     }
 }
-
-module.exports = Barista;
+module.exports={
+    Barista
+}

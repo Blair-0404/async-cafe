@@ -24,4 +24,6 @@ class OrderQueue {
     }
 }
 
-module.exports = OrderQueue;
+module.exports={
+    OrderQueue
+}
